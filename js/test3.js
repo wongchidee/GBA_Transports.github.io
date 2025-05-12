@@ -24,7 +24,7 @@ require([
     "esri/widgets/Expand"
 ],(Map, WebMap,mapview,Legend,Search, TileLayer, FL, GeoJSONLayer, Graphic,GroupLayer,GraphicsLayer,
        VectorTileLayer,dom, on, domReady,WebScene, SceneView, UniqueValueRenderer,esriConfig, Basemap, watchUtils, PopupTemplate,Expand) => {
-    esriConfig.apiKey = "AAPKd8b9057a61a24b738ad21d4ec6401ee6q9_Kkpwk5p-vCs85zsCvv1dLorKqBenU7xKvppuC2E8aZRjR74FJOYG6nOGFmxxZ";
+    esriConfig.apiKey = "AAPKbec154b428d745ce9a48c6d0b8ef3d47HoxWzoeDHKvdfkJwhO1ymKCeRXNP9FbrxjQMViPhASg6xCVofuROCesS4f_1b6qK";
  const switchButton = document.getElementById("switch-btn");
         const appConfig = {
           mapview: null,
